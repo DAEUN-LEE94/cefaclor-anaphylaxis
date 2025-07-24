@@ -6,16 +6,16 @@ This repository contains the resources used for performing association analysis 
 The repository includes analysis scripts, metadata submitted to EGA, and reproducible workflows.
 
 
-## Exome-wide association analysis #변경필
+## Exome-wide association analysis 
 - Input: Genotype and phenotype data (not shared due to controlled access)
-- Usage: See `scripts/run_analysis.sh`
-- `scripts/run_analysis.sh`: Shell pipeline for filtering
-- `scripts/analysis.R`: Prepares inputs and visualizations (e.g., Manhattan plots)
+- Usage: See `[scripts/run_analysis.sh](scripts/run_analysis.sh)`
+- `[scripts/run_analysis.sh](scripts/run_analysis.sh)`: Shell pipeline for filtering
+- `scripts/analysis.R`: Prepares inputs and visualizations (e.g., Manhattan plots) **#변경필**
   - Assumes Linux (Ubuntu) environment with R and Java installed
 
 
-## Pre-ranked GSEA  #변경필
-- Input file: `preranked_gsea_input.txt`
+## Pre-ranked GSEA
+- Input file: `preranked_gsea_input.txt` **#변경필**
   - Format: tab-delimited, with gene symbol and ranking score (e.g., t-statistic or beta)
 - Tool: GSEA (Broad Institute)
 
