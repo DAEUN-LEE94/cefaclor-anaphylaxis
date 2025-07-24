@@ -1,5 +1,5 @@
 #!/bin/bash
-set -euo pipefail
+
 
 ##############################################
 # STEP 1: VCF Preprocessing
