@@ -31,7 +31,7 @@ This repository is released under the MIT License.
 Please cite our associated publication if you use any part of this repository.
 
 
-## 🧪 Contact
+## Contact
 For questions or access requests, please contact:
 **SUNGRYEOL KIM**
 Division of Pulmonology, Allergy and Critical Care Medicine, Department of Internal Medicine, Yongin Severance Hospital, Yonsei University College of Medicine
