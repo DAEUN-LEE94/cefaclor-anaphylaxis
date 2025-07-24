@@ -14,9 +14,9 @@ The repository includes analysis scripts, metadata submitted to EGA, and reprodu
   - Assumes Linux (Ubuntu) environment with R and Java installed
 
 
-## Pre-ranked GSEA
-- Input file: `preranked_gsea_input.txt` **#변경필**
-  - Format: tab-delimited, with gene symbol and ranking score (e.g., t-statistic or beta)
+### Pre-ranked GSEA
+- Input file: [data/preranked_gsea_input.txt](data/preranked_gsea_input.txt)
+- Also available: [data/preranked_gsea_input.rnk](data/preranked_gsea_input.rnk)
 - Tool: GSEA (Broad Institute)
 
 
