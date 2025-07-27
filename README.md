@@ -8,10 +8,10 @@ The repository includes analysis scripts, metadata submitted to EGA, and reprodu
 
 ## Exome-wide association analysis 
 - Input: Genotype and phenotype data (not shared due to controlled access)
-- Usage: See [scripts/run_analysis.sh](scripts/run_analysis.sh)
--  [scripts/run_analysis.sh](scripts/run_analysis.sh): Shell pipeline for variants filtering and association analysis
-- `scripts/analysis.R`: Prepares inputs and visualizations (e.g., Manhattan plots)
-  - Assumes Linux (Ubuntu) environment with R and Java installed
+- Usage:
+  1) [scripts/run_analysis.sh](scripts/run_analysis.sh): Shell pipeline for variants filtering and association analysis
+  2) [scripts/analysis.R](scripts/analysis.R): Template R code for PCA, Manhattan, and QQ plots. Replace the placeholder paths and sample identifiers with real values.
+- Assumes Linux (Ubuntu) environment with R and Java installed
 
 
 ### Pre-ranked GSEA
